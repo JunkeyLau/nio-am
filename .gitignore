@@ -1,0 +1,15 @@
+*.apk
+*.apks
+*.aab
+*.zip
+*.p12
+*.jks
+*.keystore
+*.pass
+*.pem
+*.pk8
+.env
+.env.*
+.DS_Store
+.nioam-build-*/
+nio-link-window-check-2026-11-11.command
